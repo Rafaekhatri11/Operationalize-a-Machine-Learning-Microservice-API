@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
-[![CircleCI](https://app.circleci.com/pipelines/github/Rafaekhatri11/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://github.com/Rafaekhatri11/Give-Your-Application-Auto-Deploy-SuperPower)
+
+[![CircleCI](https://app.circleci.com/pipelines/github/Rafaekhatri11/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://github.com/Rafaekhatri11/Operationalize-a-Machine-Learning-Microservice-API)
 
 # Operationalize-a-Machine-Learning-Microservice-API
 Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
