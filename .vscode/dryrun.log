@@ -3,5 +3,6 @@ make: Entering directory `/Users/mac/Desktop/Project/udacity/Operationalize a Ma
 # Create python virtualenv & source it
 # source ~/.devops/bin/activate
 python3 -m venv ~/.devops
+ 
 make: Leaving directory `/Users/mac/Desktop/Project/udacity/Operationalize a Machine Learning Microservice API'
  
