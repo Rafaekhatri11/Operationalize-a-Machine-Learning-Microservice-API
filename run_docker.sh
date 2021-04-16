@@ -13,4 +13,4 @@ docker image ls
 # Step 3: 
 # Run flask app
 
-sudo docker run -p 9090:9090 rafaekhatri11/udacity
+docker run -p 9090:9090 rafaekhatri11/udacity
